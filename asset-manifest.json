@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Promodoro-Timer/static/css/main.6ec66198.css",
+    "main.js": "/Promodoro-Timer/static/js/main.2f87b41f.js",
+    "static/js/787.aea91f1f.chunk.js": "/Promodoro-Timer/static/js/787.aea91f1f.chunk.js",
+    "static/media/beep.wav": "/Promodoro-Timer/static/media/beep.372995a9b53513b6fd79.wav",
+    "index.html": "/Promodoro-Timer/index.html",
+    "main.6ec66198.css.map": "/Promodoro-Timer/static/css/main.6ec66198.css.map",
+    "main.2f87b41f.js.map": "/Promodoro-Timer/static/js/main.2f87b41f.js.map",
+    "787.aea91f1f.chunk.js.map": "/Promodoro-Timer/static/js/787.aea91f1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec66198.css",
+    "static/js/main.2f87b41f.js"
+  ]
+}
